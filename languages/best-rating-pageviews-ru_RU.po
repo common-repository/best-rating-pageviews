@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-03-20 22:13+0300\n"
+"PO-Revision-Date: 2023-03-20 22:13+0300\n"
+"Last-Translator: \n"
+"Language-Team: Maxim Glazunov <djdiplomat477@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c\n"
+"X-Poedit-SearchPath-0: best-rating-pageviews.php\n"
+"X-Poedit-SearchPath-1: functions.php\n"
+"X-Poedit-SearchPath-2: packages.php\n"
+"X-Poedit-SearchPath-3: uninstall.php\n"
+"X-Poedit-SearchPath-4: classes/system/class-brpv-error-log.php\n"
+"X-Poedit-SearchPath-5: classes/system/class-brpv-feedback.php\n"
+"X-Poedit-SearchPath-6: classes/system/class-brpv-settings-page.php\n"
+"X-Poedit-SearchPath-7: classes/system/class-brpv-statistics-feed-wp-list-"
+"table.php\n"
+"X-Poedit-SearchPath-8: classes/system/class-brpv-statistics-page.php\n"
+"X-Poedit-SearchPath-9: classes/widgets/class-brpv-widget-popular.php\n"
+"X-Poedit-SearchPath-10: includes/backward-compatibility.php\n"
+"X-Poedit-SearchPath-11: includes/icopydoc-useful-functions.php\n"
+"X-Poedit-SearchPath-12: includes/old-php-add-functions.php\n"
+"X-Poedit-SearchPath-13: classes/system/class-brpv.php\n"
+
+#: best-rating-pageviews.php:34
+msgid "plugin requires a php version of at least"
+msgstr "для работы плагина требуется php версии не ниже"
+
+#: best-rating-pageviews.php:35
+msgid "You have the version installed"
+msgstr "У вас установлена версия"
+
+#: classes/system/class-brpv-feedback.php:20
+msgid "Send data about the work of the plugin"
+msgstr "Отправить данные о работе плагина"
+
+#: classes/system/class-brpv-feedback.php:22
+msgid "Sending statistics you help make the plugin even better"
+msgstr "Отправляя статистику, вы помогаете сделать плагин еще лучше"
+
+#: classes/system/class-brpv-feedback.php:22
+msgid "The following data will be transferred"
+msgstr "Следующие данные будут переданы"
+
+#: classes/system/class-brpv-feedback.php:24
+msgid "PHP version information"
+msgstr "Информация о PHP версии"
+
+#: classes/system/class-brpv-feedback.php:25
+msgid "Multisite mode status"
+msgstr "Включен ли режим multisite"
+
+#: classes/system/class-brpv-feedback.php:26
+msgid "Technical information and plugin logs"
+msgstr "Техническая информация и логи плагина"
+
+#: classes/system/class-brpv-feedback.php:28
+msgid "Did my plugin help you upload your products to the"
+msgstr "Помог ли Вам плагин загрузить продукцию на"
+
+#: classes/system/class-brpv-feedback.php:31
+#: classes/system/class-brpv-settings-page.php:158
+msgid "Yes"
+msgstr "Да"
+
+#: classes/system/class-brpv-feedback.php:32
+#: classes/system/class-brpv-settings-page.php:159
+msgid "No"
+msgstr "Нет"
+
+#: classes/system/class-brpv-feedback.php:34
+msgid ""
+"If you don't mind to be contacted in case of problems, please enter your "
+"email address"
+msgstr ""
+"Если вы не возражаете, чтобы с Вами связались в случае возникновения "
+"дополнительных вопросов по поводу работы плагина, то укажите Ваш адрес "
+"электронной почты"
+
+#: classes/system/class-brpv-feedback.php:36
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+#: classes/system/class-brpv-feedback.php:37
+msgid ""
+"Enter your text to send me a message (You can write me in Russian or "
+"English). I check my email several times a day"
+msgstr ""
+"Введите текст, чтобы отправить мне сообщение (Вы можете написать мне на "
+"русском или английском языке). Я проверяю свою электронную почту несколько "
+"раз в день"
+
+#: classes/system/class-brpv-feedback.php:39
+msgid "Send data"
+msgstr "Отправить данные"
+
+#: classes/system/class-brpv-feedback.php:47
+msgid "Please support the project"
+msgstr "Пожалуйста, поддержите проект"
+
+#: classes/system/class-brpv-feedback.php:49
+msgid "Thank you for using the plugin"
+msgstr "Спасибо, что используете плагин"
+
+#: classes/system/class-brpv-feedback.php:50
+msgid "Please help make the plugin better"
+msgstr "Помогите сделать плагин лучше"
+
+#: classes/system/class-brpv-feedback.php:50
+msgid "answering 3 questions"
+msgstr "ответив на 3 вопроса"
+
+#: classes/system/class-brpv-feedback.php:51
+msgid "If this plugin useful to you, please support the project one way"
+msgstr "Если этот плагин вам полезен, пожалуйста, поддержите проект"
+
+#: classes/system/class-brpv-feedback.php:53
+msgid "Leave a comment on the plugin page"
+msgstr "Оставить комментарий на странице плагина"
+
+#: classes/system/class-brpv-feedback.php:54
+msgid "Support the project financially"
+msgstr "Поддержите проект деньгами"
+
+#: classes/system/class-brpv-feedback.php:54
+msgid "Donate now"
+msgstr "Поддержать"
+
+#: classes/system/class-brpv-feedback.php:55
+msgid "Noticed a bug or have an idea how to improve the quality of the plugin"
+msgstr "Заметили ошибку или есть идея как улучшить качество плагина"
+
+#: classes/system/class-brpv-feedback.php:55
+msgid "Let me know"
+msgstr "Напишите мне"
+
+#: classes/system/class-brpv-feedback.php:57
+msgid "The author of the plugin Maxim Glazunov"
+msgstr "Автор плагина, Максим Глазунов"
+
+#: classes/system/class-brpv-feedback.php:58
+msgid "Accept orders for individual revision of the plugin"
+msgstr "Принимаю заказы на индивидуальную доработку плагина"
+
+#: classes/system/class-brpv-feedback.php:58
+msgid "Leave a request"
+msgstr "Оставить заявку"
+
+#: classes/system/class-brpv-feedback.php:96
+msgid "The data has been sent. Thank you"
+msgstr "Данные были отправлены. Спасибо"
+
+#: classes/system/class-brpv-settings-page.php:32
+msgid "Clear all statistics"
+msgstr "Очистить всю статистику"
+
+#: classes/system/class-brpv-settings-page.php:36
+msgid "Clear statistics"
+msgstr "Очистить статистику"
+
+#: classes/system/class-brpv-settings-page.php:57
+msgid "Examples shotcodes"
+msgstr "Пример шорткодов"
+
+#: classes/system/class-brpv-settings-page.php:59
+msgid "To display the rating stars"
+msgstr "Вывести рейтинг"
+
+#: classes/system/class-brpv-settings-page.php:60
+#: classes/system/class-brpv-settings-page.php:63
+msgid "or in php code"
+msgstr "или в php коде"
+
+#: classes/system/class-brpv-settings-page.php:62
+msgid "To display the number of page views"
+msgstr "Вывести количество просмотров"
+
+#: classes/system/class-brpv-settings-page.php:65
+msgid "Notice"
+msgstr "Примечание"
+
+#: classes/system/class-brpv-settings-page.php:66
+msgid "This shortcodes can be used in the body of the article"
+msgstr "Шорткоды могут использоваться в тексте статьи"
+
+#: classes/system/class-brpv-settings-page.php:67
+msgid "This shortcodes can be used in the loop body of templates"
+msgstr "Шорткоды могут использоваться в шаблоне"
+
+#: classes/system/class-brpv-settings-page.php:68
+msgid "This shortcodes cannot be used outside the loop of the template"
+msgstr "Шорткоды не могут использоваться вне цикла шаблона"
+
+#: classes/system/class-brpv-settings-page.php:77
+msgid "Save"
+msgstr "Сохранить"
+
+#: classes/system/class-brpv-settings-page.php:78
+msgid "Click to save the settings"
+msgstr "Нажмите, чтобы сохранить настройки"
+
+#: classes/system/class-brpv-settings-page.php:96
+#: classes/system/class-brpv-settings-page.php:132
+msgid "Main settings"
+msgstr "Основные настройки"
+
+#: classes/system/class-brpv-settings-page.php:155
+msgid "Not count bots"
+msgstr "Не считать ботов"
+
+#: classes/system/class-brpv-settings-page.php:161
+msgid "Do not count the bots visiting the site"
+msgstr "Не считайте ботов, посещающих сайт"
+
+#: classes/system/class-brpv-settings-page.php:165
+msgid "Main color"
+msgstr "Основной цвет"
+
+#: classes/system/class-brpv-settings-page.php:169
+msgid "Hover color"
+msgstr "Цвет при наведении"
+
+#: classes/system/class-brpv-settings-page.php:212
+#: classes/system/class-brpv-statistics-page.php:75
+msgid "My plugins that may interest you"
+msgstr "Мои плагины, которые могут вас заинтересовать"
+
+#: classes/system/class-brpv-settings-page.php:214
+#: classes/system/class-brpv-statistics-page.php:77
+msgid "Сreates a XML-feed to upload to Google Merchant Center"
+msgstr "Создает XML-фид для загрузки в Google Merchant Center"
+
+#: classes/system/class-brpv-settings-page.php:214
+#: classes/system/class-brpv-settings-page.php:215
+#: classes/system/class-brpv-settings-page.php:216
+#: classes/system/class-brpv-settings-page.php:217
+#: classes/system/class-brpv-settings-page.php:218
+#: classes/system/class-brpv-settings-page.php:219
+#: classes/system/class-brpv-settings-page.php:220
+#: classes/system/class-brpv-settings-page.php:221
+#: classes/system/class-brpv-settings-page.php:222
+#: classes/system/class-brpv-statistics-page.php:77
+#: classes/system/class-brpv-statistics-page.php:78
+#: classes/system/class-brpv-statistics-page.php:79
+#: classes/system/class-brpv-statistics-page.php:80
+#: classes/system/class-brpv-statistics-page.php:81
+#: classes/system/class-brpv-statistics-page.php:82
+#: classes/system/class-brpv-statistics-page.php:83
+#: classes/system/class-brpv-statistics-page.php:84
+msgid "Read more"
+msgstr "Подробнее"
+
+#: classes/system/class-brpv-settings-page.php:215
+#: classes/system/class-brpv-statistics-page.php:78
+msgid "Сreates a YML-feed for importing your products to Yandex Market"
+msgstr "Создает YML-фид для импорта ваших товаров на Яндекс Маркет"
+
+#: classes/system/class-brpv-settings-page.php:216
+#: classes/system/class-brpv-statistics-page.php:79
+msgid "Imports products from YML to your shop"
+msgstr "Импортирует товары из YML в ваш магазин"
+
+#: classes/system/class-brpv-settings-page.php:217
+msgid ""
+"This plugin helps setting up myTarget counter for dynamic remarketing for "
+"WooCommerce"
+msgstr ""
+"Этот плагин помогает настроить счетчик myTarget для динамического "
+"ремаркетинга для WooCommerce"
+
+#: classes/system/class-brpv-settings-page.php:218
+#: classes/system/class-brpv-statistics-page.php:80
+msgid "Сreates a XML-feed for importing your products to Hotline"
+msgstr "Создает XML-фид для импорта ваших товаров на Hotline"
+
+#: classes/system/class-brpv-settings-page.php:219
+#: classes/system/class-brpv-statistics-page.php:81
+msgid ""
+"This plugin will add a marketing tool that will allow you to give gifts to "
+"the buyer upon purchase"
+msgstr ""
+"Этот плагин добавит маркетинговый инструмент, который позволит вам дарить "
+"подарки покупателю при покупке"
+
+#: classes/system/class-brpv-settings-page.php:220
+#: classes/system/class-brpv-statistics-page.php:82
+msgid "With this plugin, you can import products to your group on ok.ru"
+msgstr ""
+"С помощью этого плагина вы можете импортировать товары в свою группу на ok.ru"
+
+#: classes/system/class-brpv-settings-page.php:221
+#: classes/system/class-brpv-settings-page.php:222
+#: classes/system/class-brpv-statistics-page.php:83
+#: classes/system/class-brpv-statistics-page.php:84
+msgid "Сreates a XML-feed for importing your products to"
+msgstr "Создает XML-фид для импорта ваших товаров на"
+
+#: classes/system/class-brpv-statistics-feed-wp-list-table.php:32
+#: classes/widgets/class-brpv-widget-popular.php:43
+msgid "Title"
+msgstr "Название"
+
+#: classes/system/class-brpv-statistics-feed-wp-list-table.php:33
+#: classes/widgets/class-brpv-widget-popular.php:82
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: classes/system/class-brpv-statistics-feed-wp-list-table.php:34
+msgid "Votes"
+msgstr "Голосов"
+
+#: classes/system/class-brpv-statistics-feed-wp-list-table.php:35
+msgid "Page Views"
+msgstr "Просмотры"
+
+#: classes/system/class-brpv-statistics-feed-wp-list-table.php:36
+msgid "Date of last visit"
+msgstr "Дата последнего визита"
+
+#: classes/system/class-brpv-statistics-feed-wp-list-table.php:188
+msgid "No data availabled"
+msgstr "Нет доступных данных"
+
+#: classes/system/class-brpv.php:176
+msgid "Updated"
+msgstr "Обновлено"
+
+#: classes/system/class-brpv.php:210
+msgid "Statistics deleted"
+msgstr "Статистика удалена"
+
+#: classes/system/class-brpv.php:221
+msgid "Statistics"
+msgstr "Статистика"
+
+#: classes/system/class-brpv.php:224 classes/system/class-brpv.php:444
+msgid "Settings"
+msgstr "Настройки"
+
+#: classes/system/class-brpv.php:361
+msgid "Raiting"
+msgstr "Рейтинг"
+
+#: classes/widgets/class-brpv-widget-popular.php:17
+#: classes/widgets/class-brpv-widget-popular.php:26
+msgid "Popular"
+msgstr "Популярное"
+
+#: classes/widgets/class-brpv-widget-popular.php:19
+msgid "Shows popular posts and pages based on the rating and pageviews"
+msgstr ""
+"Отображаются популярные записи и страницы на основе рейтинга и просмотров"
+
+#: classes/widgets/class-brpv-widget-popular.php:50
+msgid "Num Posts"
+msgstr "Число постов"
+
+#: classes/widgets/class-brpv-widget-popular.php:56
+msgid "Show"
+msgstr "Показать"
+
+#: classes/widgets/class-brpv-widget-popular.php:59
+msgid "Post"
+msgstr "Записи"
+
+#: classes/widgets/class-brpv-widget-popular.php:60
+msgid "Page"
+msgstr "Страницы"
+
+#: classes/widgets/class-brpv-widget-popular.php:67
+msgid "Order"
+msgstr "Сортировка"
+
+#: classes/widgets/class-brpv-widget-popular.php:70
+msgid "ASC"
+msgstr "Прямая"
+
+#: classes/widgets/class-brpv-widget-popular.php:71
+msgid "DESC"
+msgstr "Обратная"
+
+#: classes/widgets/class-brpv-widget-popular.php:78
+msgid "Order by"
+msgstr "Сортировать по"
+
+#: classes/widgets/class-brpv-widget-popular.php:81
+msgid "PageViews"
+msgstr "Просмотры"
+
+#: includes/icopydoc-useful-functions.php:200
+#, php-format
+msgid "No %s is associated with #%d"
+msgstr "Нет %s с таким #%d"
+
+#: includes/icopydoc-useful-functions.php:225
+#, php-format
+msgid "This %s cannot be deleted"
+msgstr "%s не может быть удалён"
+
+#~ msgid "Rating icons"
+#~ msgstr "Значки рейтинга"
+
+#, fuzzy
+#~| msgid "Clear statistics"
+#~ msgid "Count statistics for"
+#~ msgstr "Очистить статистику"
+
+#~ msgid "Exporter"
+#~ msgstr "Экспортер"
+
+#~ msgid "Best Rating & Pageviews Settings"
+#~ msgstr "Рейтинг и Просмотры"
+
+#~ msgid "Main parameters"
+#~ msgstr "Основные параметры"
+
+#~ msgid ""
+#~ "this is a plugin for WooCommerce that creates an XML-feed for uploading "
+#~ "your products to the Google Merchant Center"
+#~ msgstr ""
+#~ "это плагин для WooCommerce, который создает XML-фид для загрузки ваших "
+#~ "товаров в Google Merchant Center"
+
+#~ msgid "Learn More"
+#~ msgstr "Подробнее"
+
+#~ msgid "Consolidated report"
+#~ msgstr "Сводный отчет"
+
+#~ msgid "Statistics by"
+#~ msgstr "Статистика по"
+
+#~ msgid "Posts"
+#~ msgstr "Записям"
+
+#~ msgid "Pages"
+#~ msgstr "Страницам"
+
+#~ msgid "Posts & Pages"
+#~ msgstr "Записям и Страницам"
+
+#~ msgid "Order by Rating"
+#~ msgstr "Сортировать по Рейтингу"
+
+#~ msgid "Order by Votes"
+#~ msgstr "Сортировать по Голосам"
+
+#~ msgid "Order by Page views"
+#~ msgstr "Сортировать по Просмотрам"
+
+#~ msgid "Order by date of last visit"
+#~ msgstr "Сортировать по дате последнего визита"
+
+#~ msgid "Edit"
+#~ msgstr "Редактировать"
+
+#~ msgid ""
+#~ "Please note that there are no pages for which data was not collected in "
+#~ "the results"
+#~ msgstr ""
+#~ "Обратите внимание, что в результатах нет страниц, для которых данные не "
+#~ "были собраны"
+
+#~ msgid "Rating & PageViews"
+#~ msgstr "Рейтинг и Просмотры"
+
+#~ msgid "Settings Maps for WP"
+#~ msgstr "Настройки Maps for WP"
+
+#~ msgid "Text when you hover over a point"
+#~ msgstr "Текст при наведении на точку"
+
+#~ msgid "The image point on the map (36×36)"
+#~ msgstr "Иконка точки на карте (36×36)"
+
+#~ msgid "Zoom map with many points"
+#~ msgstr "Масштаб карты с множеством точек"
+
+#~ msgid "Latitude center map with many points"
+#~ msgstr "Широта центра карты с множеством точек"
+
+#~ msgid "Longitude center map with many points"
+#~ msgstr "Долгота карты с множеством точек"
+
+#~ msgid "Zoom map with one point"
+#~ msgstr "Масштаб карты с одной точкой"
+
+#~ msgid "Latitude map with one point"
+#~ msgstr "Широтка карты с одной точкой"
+
+#~ msgid "Longitude map with one point"
+#~ msgstr "Долготак карты с одной точкой"
+
+#~ msgid "Location"
+#~ msgstr "Местоположение"
+
+#~ msgid "Latitude"
+#~ msgstr "Широта"
+
+#~ msgid "Longitude"
+#~ msgstr "Долгота"
+
+#~ msgid "Country"
+#~ msgstr "Страна"
+
+#~ msgid "Region"
+#~ msgstr "Регион"
+
+#~ msgid "Subadministrative"
+#~ msgstr "Район"
+
+#~ msgid "City"
+#~ msgstr "Город"
+
+#~ msgid "The exact address"
+#~ msgstr "Точный адрес"
+
+#~ msgid "Container Yandex Maps"
+#~ msgstr "Блок Yandex Maps"
